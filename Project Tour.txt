@@ -1,0 +1,32 @@
+Hello guy's,my name is Priti Shivshankar Patil.
+I have done Library Management System project.
+I will descibe you how to run this project step by step.
+1.First of all download this project.
+2.Clean and Build this project.
+3.Run sql file.
+In that there are 5 tables 
+tbl_login(username,password)
+book(bid,bname.author,pages,publication)
+student(sid,sname,schooln,address,phoneno)
+issuebook/returnbook(bid,bname,sid,sname,author,pages,issuedate/returndate).
+4.Now run the project.
+5.Run FirstForm file -> click on Next button.
+6.Now you will get login form ->Enter username and password ->click on login button
+and if you are a new user then click on Registration button and enter details ,username and password then click on log in 
+7.Now you will get Menu form->here there are many options for you, you can choose any of them.
+8.If you choose add modify student-> enter all the details of student there and then click on add button 
+it will add that student to database and if you want to modify book enter all the details,book id of student there and then click on add button 
+it will add that student to database
+There is clear button also that is used to clear all the values you entered in textfields.
+and exit button it is used to go to menu back i am using window controlling so that you can see only one form
+at a time so if you want to go back to menu just click on exit button.
+9.If you choose add new book then enter the details of book and use any of add,clear,exit button according to you.
+10.If you choose issue book then enter all the details needed for it and submit it. return book is same as issue book.
+11.If you want to see all issued book records then go to issue book records form here you will get two options 
+   1.search->if you want to search specific record->for this you should enter book id and student id and then click on search button
+   2.show all->if you want to see all issue book records-> for this purpose just click on show all button.
+12.Return book records also you can see after going to return book records form.
+13.so,Like this I made this project I tried to do as easy as possible for the end users.
+If you come with any problem  please ping me, I will describe everything.
+Please give me feedback,How it is?
+thank you.

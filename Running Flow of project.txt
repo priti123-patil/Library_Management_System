@@ -1,0 +1,19 @@
+1.FirstForm->Next
+2.Login Form->1.Login
+              2.New Registration
+3.Menu Form->1.Add Modify Student->1.Add
+                                   2.Modify
+             2.Add Modify book->1.Add
+                                2.Modify
+             3.Issue Book
+             4.Return Book
+             5.Show all students->1.Search student
+                                  2.Show All 
+             6.Show all books->1.Search book
+                               2.Show all
+             7.Issue book records->1.Search
+                                   2.Show all
+             8.Return Book Records->1.Search
+                                    2.Show all
+             9.Delete Book
+             10.Delete Student
